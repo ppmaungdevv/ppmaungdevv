@@ -1,6 +1,6 @@
 - 👋  Hi, I’m Pyae Phyo Maung
 - 👀  I’m interested in Web Development and iOS Development
-- 🌱  I’m currently working on Web Development with Vue.js, Express and Serverless Architecture on AWS Services (such as lambda, dynamo db, S3, cognito, etc.). I'm also learning NuxtJS, React, Svelte and Go.
+- 🌱  I’m currently working on Web Development with Vue.js, Express and Serverless Architecture on AWS Services (such as lambda, dynamo db, S3, cognito, etc.). I'm also learning NuxtJS, React, Svelte.
 <!-- - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... -->
 
